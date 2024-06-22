@@ -1,6 +1,7 @@
 # Portfolio Under Construction
 
-![Coming Soon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnilesec.nilebasin.org%2F%3Fs%3Daesthetic-wallpapers-4k-hd-by-martin-hanigovsky-cc-AxzQ7dcx&psig=AOvVaw1S-UvycndMUh4uzayTMWc7&ust=1719162205581000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDMv7jY74YDFQAAAAAdAAAAABAR)
+![working_on_it](https://github.com/Abilash-Nambi/Portfolio/assets/142148604/cbe01de9-98b2-45a9-981a-9804cf78e3af)
+
 
 Welcome to my portfolio! I am currently in the process of building it using React and Tailwind CSS. This platform will showcase my projects, skills, and experiences in web development. Stay tuned for updates as I work to create an engaging and dynamic showcase of my work. Thank you for your patience!
 
