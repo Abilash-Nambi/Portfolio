@@ -1,8 +1,25 @@
-# React + Vite
+# Portfolio Under Construction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Coming Soon](coming-soon-image-url)
 
-Currently, two official plugins are available:
+Welcome to my portfolio! I am currently in the process of building it using React and Tailwind CSS. This platform will showcase my projects, skills, and experiences in web development. Stay tuned for updates as I work to create an engaging and dynamic showcase of my work. Thank you for your patience!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
+## Features to Expect
+
+- **Project Showcase**: Detailed descriptions and links to my projects.
+- **Skills Overview**: A comprehensive list of my technical skills.
+- **Experience Timeline**: A chronological display of my professional journey.
+- **Contact Information**: Ways to get in touch with me.
+
+## Stay Connected
+
+Follow me on social media or check back soon to see the finished product!
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [GitHub](#)
